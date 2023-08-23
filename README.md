@@ -1,8 +1,8 @@
-# 🎨 **DuoSimplex Oh-My-Posh Theme**
+# 🎨 **DualSimplicityOh-My-Posh Theme**
 
-![DuoSimplex Theme Example](./dualsimplicity.png)
+![DualSimplicityTheme Example](./dualsimplicity.png)
 
-Enhance your command-line experience with the DuoSimplex theme for Oh-My-Posh! This minimalist and elegant theme combines the power of a dual-line prompt with the simplicity of a clean design, making your terminal both functional and aesthetically pleasing.
+Enhance your command-line experience with the DualSimplicity theme for Oh-My-Posh! This minimalist and elegant theme combines the power of a dual-line prompt with the simplicity of a clean design, making your terminal both functional and aesthetically pleasing.
 
 ## 🚀 **Features:**
 
