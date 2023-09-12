@@ -49,7 +49,7 @@
           "foreground": "#000000",
           "powerline_symbol": "\ue0b4",
           "properties": {
-            "style": "agnoster_full",
+            "style": "agnoster_short",
             "folder_icon": "\uf07b",
             "folder_separator_icon": " \u276f "
           },
@@ -172,7 +172,7 @@
           },
           "style": "diamond",
           "template": "\u276f\u276f ",
-          "type": "exit"
+          "type": "text"
         }
       ],
       "type": "prompt"
