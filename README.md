@@ -1,5 +1,11 @@
 # 🎨 **DualSimplicity Oh-My-Posh Theme**
 
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/805ef0e4-46bb-49a3-bffc-fd6ca82758b5/project/85f80264-59eb-4155-a87f-9e1b2cfea843.svg)](https://wakatime.com/badge/user/805ef0e4-46bb-49a3-bffc-fd6ca82758b5/project/85f80264-59eb-4155-a87f-9e1b2cfea843)
+
+</div>
+
 ![DualSimplicity Theme Example](./preview.png)
 
 Enhance your command-line experience with the DualSimplicity theme for Oh-My-Posh! This minimalist and elegant theme combines the power of a dual-line prompt with the simplicity of a clean design, making your terminal both functional and aesthetically pleasing.
