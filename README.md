@@ -28,4 +28,4 @@ This theme is released under the [MIT License](./LICENSE).
 
 Elevate your terminal aesthetics and functionality with DuoSimplex. Let your terminal tell your style story!
 
-### **Note:** Oh-My-Posh is a prerequisite for using this theme
+### **Note:** Oh-My-Posh is a `prerequisite` for using this `theme`
