@@ -6,7 +6,10 @@
 
 </div>
 
-![DualSimplicity Theme Example](./preview.png)
+## Normal
+![](./normal.webp)
+## Admin
+![](./sudo.webp)
 
 Enhance your command-line experience with the DualSimplicity theme for Oh-My-Posh! This minimalist and elegant theme combines the power of a dual-line prompt with the simplicity of a clean design, making your terminal both functional and aesthetically pleasing.
 
